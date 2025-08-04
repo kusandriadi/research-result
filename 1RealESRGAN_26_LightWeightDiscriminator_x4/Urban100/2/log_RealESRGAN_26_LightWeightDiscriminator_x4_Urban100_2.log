@@ -1,0 +1,17 @@
+Model Parameters:
+Total parameters: 16,697,987
+Trainable parameters: 16,697,987
+Model size (calculated): 63.70 MB
+Weight file size: 127.85 MB
+
+Image Quality Metrics:
+PSNR (HB): 24.47
+SSIM (HB): 0.8285
+PI   (LB): 4.1902
+
+Rata-rata penggunaan sistem selama proses:
+CPU: 1.65%
+RAM: 66.61% (21719.09 MB)
+GPU: 20.57%
+Memori GPU: 92.01% (7533.63 MB)
+Waktu total: 3 minutes 25 seconds
